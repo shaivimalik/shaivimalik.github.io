@@ -1,0 +1,9 @@
+github_users:
+  - 
+
+repo_description_lines_max: 2
+
+github_repos:
+  - shaivimalik/medicine_preprocessing-on-entire-dataset
+  - shaivimalik/covid_illegitimate_features
+  - shaivimalik/cv
